@@ -1,4 +1,4 @@
-
+<?php
 
 function Persegi($a) {
     $b = $a / 3;

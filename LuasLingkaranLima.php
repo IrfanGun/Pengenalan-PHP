@@ -1,4 +1,4 @@
-
+<?php
 
 function KelipatanLima($a) {
     $b = $a / 5;

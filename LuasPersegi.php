@@ -1,4 +1,4 @@
-<?php
+
 
 function Persegi($a) {
     $b = $a / 3;
@@ -7,4 +7,3 @@ function Persegi($a) {
     echo($hasil .PHP_EOL);
 
 }
-?>

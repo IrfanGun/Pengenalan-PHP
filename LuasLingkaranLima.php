@@ -1,4 +1,4 @@
-<?php
+
 
 function KelipatanLima($a) {
     $b = $a / 5;
@@ -6,4 +6,3 @@ function KelipatanLima($a) {
     echo($hasilLuas. PHP_EOL);
 }
 
-?>

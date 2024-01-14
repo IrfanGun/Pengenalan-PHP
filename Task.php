@@ -1,4 +1,4 @@
-<?php
+
 require_once __DIR__ . "\LuasLingkaranTiga.php";
 require_once __DIR__ . "\LuasLingkaranLima.php";
 require_once __DIR__ . "\LuasPersegi.php";
@@ -21,4 +21,3 @@ for($i = 0; $i <= 100; $i++){
    
 }
 
-?>
